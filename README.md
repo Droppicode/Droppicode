@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=droppicode" alt="Droppicode" /> </p>
 
-- 🌱 **I’m currently learning** React, Node, discord.js and how to use Github.
+- 🌱 **I’m currently learning** React and Node.
 
 - 📫 **How to reach me:** ! Droppi#7866 on Discord.
 
