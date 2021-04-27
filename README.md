@@ -4,7 +4,7 @@
 
 - 🌱 **I’m currently learning** React and Node.
 
-- 📫 **How to reach me:** ! Droppi#7866 on Discord.
+- 📫 **How to reach me:** ! Droppi#2826 on Discord.
 
 - ⚡ **Fun fact:** I started to learn c++ for a Brazilian programming olympics, OBI.
 
