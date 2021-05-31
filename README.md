@@ -6,7 +6,7 @@
 
 - 📫 **How to reach me:** ! Droppi#2826 on Discord.
 
-- ⚡ **Fun fact:** I started to learn c++ for a Brazilian programming olympics, OBI.
+- ⚡ **Fun fact:** I started learning with c++ for a Brazilian programming olympics, OBI.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=droppicode&show_icons=true" alt="Droppicode"/> 
