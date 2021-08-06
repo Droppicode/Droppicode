@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=droppicode" alt="Droppicode" /> </p>
 
+Im Marcos, but you can call me **Droppi**, I'm 14 years old and I live in Brazil 🇧🇷! I love developing games and websites, besides learning new things.
+
 - 🌱 **I’m currently learning** React and Node.
 
-- 📫 **How to reach me:** ! Droppi#2826 on Discord.
-
-- ⚡ **Fun fact:** I started learning with c++ for a Brazilian programming olympics, OBI.
+- 📫 **How to reach me:** ! Droppi#2826 on Discord..
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=droppicode&show_icons=true" alt="Droppicode"/> 
