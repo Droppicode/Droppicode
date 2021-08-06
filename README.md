@@ -6,7 +6,8 @@ Im Marcos, but you can call me **Droppi**, I'm 14 years old and I live in Brazil
 
 - 🌱 **I’m currently learning** React and Node.
 
-- 📫 **How to reach me:** ! Droppi#2826 on Discord..
+- 📫 **How to reach me:** ! Droppi#2826 on Discord.
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=droppicode&show_icons=true" alt="Droppicode"/> 
