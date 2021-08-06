@@ -10,5 +10,6 @@ Im Marcos, but you can call me **Droppi**, I'm 14 years old and I live in Brazil
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=droppicode&show_icons=true" alt="Droppicode"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=droppicode&show_icons=true" alt=""/> 
+<img src="https://github-readme-stats-droppicode.vercel.app/api/top-langs/?username=droppicode&layout=compact&theme=radical" alt=""/>
 </p>
