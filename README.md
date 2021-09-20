@@ -6,7 +6,7 @@
   <a href="https://replit.com/@Droppi"><img src="https://img.shields.io/static/v1?label=Replit&message=Droppi&color=green&style=flat"></a>
 </p>
 
-Im Marcos, but you can call me **Droppi**, I'm 14 years old and I live in Brazil 🇧🇷! I love developing games and websites, besides learning new things.
+My name is Marcos, but you can call me **Droppi**, I'm 14 years old and I live in Brazil 🇧🇷! I love developing games and websites, besides learning new things.
 
 - 🌱 **Learning** Lua.
 
