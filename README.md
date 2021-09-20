@@ -4,7 +4,9 @@
 
 Im Marcos, but you can call me **Droppi**, I'm 14 years old and I live in Brazil 🇧🇷! I love developing games and websites, besides learning new things.
 
-- 🌱 **I’m currently learning** React and Node.
+- 🌱 **Learning** Lua.
+
+- 💪 **Improving** JavaScript and C++.
 
 - 📫 **How to reach me:** ! Droppi#2826 on Discord.
 <p align=center>
