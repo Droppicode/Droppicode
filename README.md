@@ -1,8 +1,11 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=droppicode" alt="Droppicode" /> </p>
-<a href="https://discord.com/users/714960683967447050"><img src="https://img.shields.io/static/v1?label=Discord&message=Droppi&color=4402dd&style=flat&logo=discord"></a>
-<a href="https://replit.com/@MSMMD"><img src="https://img.shields.io/static/v1?label=Replit&message=!Droppi&color=blue&style=flat"></a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=droppicode" alt="Droppicode" /> </p>
+  <a href="https://discord.com/users/460429419404853248"><img src="https://img.shields.io/static/v1?label=Discord&message=Droppi&color=4402dd&style=flat&logo=discord"></a>
+  <a href="https://replit.com/@Droppi"><img src="https://img.shields.io/static/v1?label=Replit&message=!Droppi&color=blue&style=flat"></a>
+</p>
+<p align="left"> 
 
 Im Marcos, but you can call me **Droppi**, I'm 14 years old and I live in Brazil 🇧🇷! I love developing games and websites, besides learning new things.
 
