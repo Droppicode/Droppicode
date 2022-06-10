@@ -8,11 +8,10 @@
 
 My name is Marcos, but you can call me **Droppi**, I'm 14 years old and I live in Brazil 🇧🇷! I love developing games and websites, besides learning new things.
 
-- 🌱 **Learning** Lua.
-
-- 💪 **Improving** JavaScript and C++.
+- 💪 **Improving** JavaScript, C++ and Python.
 
 - 📫 **How to reach me:** ! Droppi#2826 on Discord (right up).
+
 <p align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=droppicode&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" alt=""/> 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Droppicode&layout=compact&theme=radical&hide_border=true&v=2" alt=""/>
