@@ -6,11 +6,11 @@
   <a href="https://replit.com/@Droppi"><img src="https://img.shields.io/static/v1?label=Replit&message=Droppi&color=green&style=flat"></a>
 </p>
 
-My name is Marcos, but you can call me **Droppi**, I'm 14 years old and I live in Brazil 🇧🇷! I love developing games and websites, besides learning new things.
+My name is Marcos, I'm 18 years old and I live in Brazil 🇧🇷! I love developing games and websites, besides learning new things.
 
 - 💪 **Improving** JavaScript, C++ and Python.
 
-- 📫 **How to reach me:** ! Droppi#2826 on Discord (right up).
+- 📫 **How to reach me:** xdroppi on Discord (right up).
 
 <p align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=droppicode&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" alt=""/> 
