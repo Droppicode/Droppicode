@@ -11,7 +11,9 @@ My name is Marcos, I'm 18 years old and I live in Brazil 🇧🇷! I love develo
 
 - 📫 **How to reach me:** xdroppi on Discord (right up).
 
+<!--
 <p align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=droppicode&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" alt=""/> 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Droppicode&layout=compact&theme=radical&hide_border=true&v=2" alt=""/>
 </p>
+-->
